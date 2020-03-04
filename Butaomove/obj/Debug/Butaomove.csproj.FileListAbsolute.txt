@@ -1,0 +1,10 @@
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\bin\Debug\Butaomove.exe.config
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\bin\Debug\Butaomove.exe
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\bin\Debug\Butaomove.pdb
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\obj\Debug\Butaomove.csprojAssemblyReference.cache
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\obj\Debug\Butaomove.Form1.resources
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\obj\Debug\Butaomove.Properties.Resources.resources
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\obj\Debug\Butaomove.csproj.GenerateResource.cache
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\obj\Debug\Butaomove.csproj.CoreCompileInputs.cache
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\obj\Debug\Butaomove.exe
+C:\Users\Gonçalo Malheiro\source\repos\Butaomove\obj\Debug\Butaomove.pdb
